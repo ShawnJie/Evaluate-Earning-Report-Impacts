@@ -7,3 +7,5 @@ In this program, we:
 3. Calculate AAR(Average Abnormal Return) and CAAR(Cumulative AAR) for each group using bootstrapping
 4. Use Excel Driver to show the CAAR from all 3 groups in one graph
 5. Analysis CAAR behaviour after reports releasing.
+
+![](Evaluate-Earning-Report-Impacts/Picture1.png)
